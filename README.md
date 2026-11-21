@@ -1,1 +1,1 @@
-This is my first ai project 
+This is my first AI project 
